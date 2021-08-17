@@ -1,0 +1,4 @@
+def HelloWorld:
+	print("In a function")
+print("Welcome")
+Helloworld()
